@@ -1,0 +1,19 @@
+{
+    "name": "gabidj/dot-doctrine",
+    "description": "Doctrine adaptation for DotKernel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gabidj",
+            "email": "git@gabisuciu.ro"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dot\\Doctrine\\": "src/"
+        }
+    }
+}
